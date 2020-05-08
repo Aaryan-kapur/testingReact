@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testingReact/static/css/main.0bdaf6ea.chunk.css",
+    "main.js": "/testingReact/static/js/main.7688891e.chunk.js",
+    "main.js.map": "/testingReact/static/js/main.7688891e.chunk.js.map",
+    "runtime-main.js": "/testingReact/static/js/runtime-main.3d64cbd8.js",
+    "runtime-main.js.map": "/testingReact/static/js/runtime-main.3d64cbd8.js.map",
+    "static/js/2.39f0647d.chunk.js": "/testingReact/static/js/2.39f0647d.chunk.js",
+    "static/js/2.39f0647d.chunk.js.map": "/testingReact/static/js/2.39f0647d.chunk.js.map",
+    "index.html": "/testingReact/index.html",
+    "precache-manifest.f884c9ebf5986db648986c8d128ef3aa.js": "/testingReact/precache-manifest.f884c9ebf5986db648986c8d128ef3aa.js",
+    "service-worker.js": "/testingReact/service-worker.js",
+    "static/css/main.0bdaf6ea.chunk.css.map": "/testingReact/static/css/main.0bdaf6ea.chunk.css.map",
+    "static/js/2.39f0647d.chunk.js.LICENSE.txt": "/testingReact/static/js/2.39f0647d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d64cbd8.js",
+    "static/js/2.39f0647d.chunk.js",
+    "static/css/main.0bdaf6ea.chunk.css",
+    "static/js/main.7688891e.chunk.js"
+  ]
+}

@@ -120,7 +120,7 @@ class Test extends Component {
 			)
 
 		const peer = new Peer(this.state.id, {
-			host: '42168f3c.ngrok.io',
+			host: '515ce2de.ngrok.io',
 			// port: 9000,
 			path: '/myapp',
 			secure: true,
